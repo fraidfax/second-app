@@ -8,7 +8,7 @@ def pre_effect(num):
 		# random.randint(1, random.randint(10, 30)
 	
 def time_effect(text):
-	ran_dom = random.randint(20, 50)
+	ran_dom = random.randint(18, 47)
 	random_step = random.randint(-5, -1)
 	time_freeze = random.uniform(0.1 ,0.3)
 
