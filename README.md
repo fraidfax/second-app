@@ -1,2 +1,2 @@
 # second-app
-an app but second
+This is a demo password generator program with loading effect.
